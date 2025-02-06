@@ -10,15 +10,20 @@
 
 # 수상경력
 <img src="https://github.com/user-attachments/assets/97e35adf-f4c4-4aca-88a1-29de2892c7c1" width="400" height="400">
-
+2023-2학기 TOPCIT 평가지원 프로그램 (장려상)
+2024-1학기 TOPCIT 평가지원 프로그램 (장려상)
 
 # 수료증
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/7004de39-3178-4ac8-a060-d5ac74beaf61" width="350"></td>
     <td><img src="https://github.com/user-attachments/assets/fdf958c6-5979-4517-a0cc-a6975768311e" width="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/7a72b882-73ca-439a-a153-3ac6708fbff0" width="350"></td>
   </tr>
 </table>
 
+# MediaPipe
+<img src="https://github.com/user-attachments/assets/42703fc5-1bfe-464a-8c81-281ca16001f0" width="400" height="400">
 
-# 
+# ObjectDetection
+<img src="https://github.com/user-attachments/assets/9a351fa9-f4df-4d5c-bcff-2e2d25b2a326" width="400" height="400">
