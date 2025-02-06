@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm 류현석입니다!</h1>
-<h3 align="center">A passionate frontend developer from Korea.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 010-3394-8072</h3>
 <p align="left">
 </p>
 
