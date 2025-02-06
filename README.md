@@ -13,7 +13,7 @@
 
 
 # 수료증
-![ICT이노베이션스퀘어_수료증](https://github.com/user-attachments/assets/7004de39-3178-4ac8-a060-d5ac74beaf61){: width="600" height="1400"}
-![글로컬_미래_모빌리티_전문인력_양성과정 수료증](https://github.com/user-attachments/assets/fdf958c6-5979-4517-a0cc-a6975768311e){: width="700" height="1500"}
+![ICT이노베이션스퀘어_수료증](https://github.com/user-attachments/assets/7004de39-3178-4ac8-a060-d5ac74beaf61){: width="700" height="1200"}
+![글로컬_미래_모빌리티_전문인력_양성과정 수료증](https://github.com/user-attachments/assets/fdf958c6-5979-4517-a0cc-a6975768311e){: width="700" height="1100"}
 
 # 
