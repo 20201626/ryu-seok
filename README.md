@@ -12,7 +12,7 @@
 2023-2학기 TOPCIT 평가지원 프로그램 (장려상)
 2024-1학기 TOPCIT 평가지원 프로그램 (장려상)
 
-# 수료증
+# 교육수료
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/7004de39-3178-4ac8-a060-d5ac74beaf61" width="350"></td>
